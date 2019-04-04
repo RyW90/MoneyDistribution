@@ -5,7 +5,7 @@ public class Main {
 
         int sceneWidth = 1000;
         int sceneHeight = 1000;
-        int N = 100;  //nuber of people
+        int N = 100;  //number of people
 
 
         AlgoVisualizer visualizer = new AlgoVisualizer(sceneWidth, sceneHeight,N);
